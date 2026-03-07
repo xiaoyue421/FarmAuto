@@ -2,6 +2,7 @@ const process = require('node:process');
 /**
  * 主程序 - 进程管理器
  * 负责启动 Web 面板，并管理多个 Bot 子进程
+ * 测试更新
  */
 
 const {
